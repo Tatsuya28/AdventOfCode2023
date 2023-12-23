@@ -1,0 +1,8 @@
+# PyCache files
+*.pyc
+
+# Virtual environment
+venv
+
+# input files from advent of code
+/*/*.txt
