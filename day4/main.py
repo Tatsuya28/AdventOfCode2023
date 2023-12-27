@@ -33,6 +33,7 @@ class Scratchcard:
         number_of_winnings(): Calculates the number of common numbers between the winning numbers and the scratched numbers.
         calculate_points(): Calculates the points earned based on the number of common numbers.
     """
+
     def __init__(self, card):
         """
         Initializes a Card object with the provided card string.
